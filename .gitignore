@@ -1,0 +1,5 @@
+genres
+*.wav
+env
+.ipynb_checkpoints
+
