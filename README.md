@@ -24,8 +24,7 @@
 </table>
 <hr>
 <h1>Classically Punk</h1>
-<p>Music. Experts have been trying to understand sound and what differentiates one song from another for a long time. What makes a tone different from another? Can we visualize sound and if yes, how?
-Audio files contain a lot of data, and our goal is to understand what an audio file is, the data it contains, and what we can do with that data. What features can we visualize on this kind of data?</p>
+<p>Music. Experts have been trying to understand sound and what differentiates one song from another for a long time. What makes a tone different from anothAudio files contain a lot of data, and our goal is to understand what an audio file is, the data it contains, and what we can do with that data. What features can we visualize on this kind of data?</p>
 <p><em>Your Mission</em></p>
 <p>Your first mission will be to find a library that "reads" music. (Computers don`t listen to music, they read it :) )
 Then your second mission will be to separate a collection of music files into different music genres, and to do so, you will need to be able to first identify features inside the music files that will be used for classification.</p>
