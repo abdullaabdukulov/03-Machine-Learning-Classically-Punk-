@@ -160,8 +160,8 @@ To run this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/music-genre-classifier.git
-   cd music-genre-classifier
+   git clone https://github.com/newjasjanpython/03-Machine-Learning-Classically-Punk-.git
+   cd 03-Machine-Learning-Classically-Punk-
    ```
 
 2. Install the required dependencies:
