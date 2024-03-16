@@ -19,8 +19,12 @@ For working with this project you need to install required libraries wich mentio
 
 ### Usage 
 First of all you need to untar the `classically_punk_music_genres.tar.gz` \
-**!!! Important**
-Untarred file should named like genres \
+Try this on Linux:\
+```tar -zxvf your_file.tar.gz```  
+Try these on Windows: 
+1. 7-Zip
+2. WinRAR
+
 Then you should run these files:
 1. **extract.py**
 2. **app.ipynb**
